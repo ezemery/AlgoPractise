@@ -1,3 +1,5 @@
+//Given an array of positive numbers, find the product of each subarray of numbers which does not include the current number
+
 function product_of_array_except_current_index(arr){
   var result = [];
   var temp_result = [];
